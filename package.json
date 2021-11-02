@@ -1,0 +1,16 @@
+{
+  "name": "infinity-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "V1ncent",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "express": "^4.17.1",
+    "node": "16.6.1"
+  }
+}
