@@ -8,4 +8,4 @@ client.once('ready', () => {
     console.log('Infinity Music status = online.')
 });
 
-client.login('OTA1MTM0MzMyNzY1Njc5NjU2.YYFqCQ.U0fCU9KF8B8ubIo9ugcmrKOdjlY');
+client.login('OTA1MTM0MzMyNzY1Njc5NjU2.YYFqCQ.q1JboeaGBaIZz4bAR-4FyJ734nc');
